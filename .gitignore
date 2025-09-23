@@ -1,0 +1,9 @@
+.venv
+.DS_Store
+__pycache__
+.vscode
+model_cython.c
+model_cython.html
+model_cython.cpython-*
+.coverage
+build
