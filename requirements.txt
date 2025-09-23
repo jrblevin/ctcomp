@@ -1,0 +1,7 @@
+numpy>=1.21.6
+scipy>=1.7.3
+Cython>=0.29.15
+psutil>=7.0.0
+matplotlib>=3.5.3
+pytest>=7.4.0
+pytest-cov>=4.1.0
